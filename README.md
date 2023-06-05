@@ -1,5 +1,8 @@
 # Portfolio-redo
 
+<img src="assets/images/readme.png" alt="Portfolio Image">
+
+
 ## Technology Used
 * HTML
 * CSS
